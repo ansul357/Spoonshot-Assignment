@@ -1,2 +1,13 @@
 # Spoonshot-Assignment
 Book inventory Management System
+## Requirements
+***install django.***
+pip install django
+***install import-export library.***
+pip install django-import-export
+***Run server.***
+python manage.py runserver
+***Create SuperUser.***
+python manage.py createsuperuser
+
+
